@@ -61,7 +61,7 @@ A **modern and responsive Todo application** with a clean UI and real-world feat
 https://todo-app-henna-phi-35.vercel.app/
 
 📂 GitHub Repository:
-(Add your repo link here)
+https://github.com/Mandeep-Parmar/todo-app
 
 ---
 
@@ -83,6 +83,9 @@ A **responsive UI clone** built using HTML and CSS focusing on layout and design
 
 🔗 Live:
 https://mandeep-parmar.github.io/spotify-ui-clone/
+
+📂 Repository:
+https://github.com/Mandeep-Parmar/spotify-ui-clone
 
 ---
 
