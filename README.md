@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Mandeep Parmar
 
-Aspiring **MERN Stack Developer** passionate about building clean, responsive, and real-world web applications using **JavaScript, Node.js, Express.js, and MongoDB**.
+Aspiring **MERN Stack Developer** focused on building clean, responsive, and real-world web applications using **JavaScript, Node.js, Express.js, and MongoDB**.
 
-I enjoy **learning by building practical projects** and continuously improving them step by step to understand how real-world applications work.
+I believe in **learning by building**, continuously improving projects step by step to understand how real-world systems work.
 
 ---
 
@@ -12,7 +12,8 @@ I enjoy **learning by building practical projects** and continuously improving t
 
 * HTML5
 * CSS3 (Flexbox, Grid, Responsive Design)
-* JavaScript (DOM Manipulation, Events, UI Logic)
+* JavaScript (DOM, Events, UI Logic)
+* React
 
 ### ⚙️ Backend
 
@@ -30,6 +31,7 @@ I enjoy **learning by building practical projects** and continuously improving t
 * Git & GitHub
 * VS Code
 * Postman
+* Vercel / Render
 
 ---
 
@@ -37,9 +39,9 @@ I enjoy **learning by building practical projects** and continuously improving t
 
 ### 🏡 WanderLust — Airbnb Style Listing Platform 🚀
 
-A **full-stack Airbnb-inspired web application** where users can create travel listings, upload images, leave reviews, and view property locations on an interactive map.
+A **full-stack Airbnb-inspired web application** where users can create travel listings, upload images, leave reviews, and explore locations on an interactive map.
 
-**Tech Used:** Node.js, Express, MongoDB, EJS, Cloudinary, Leaflet
+**Tech Stack:** Node.js, Express, MongoDB, EJS, Cloudinary, Leaflet
 
 🔗 Live Demo:
 https://wanderlust-fyj1.onrender.com/listings
@@ -49,9 +51,23 @@ https://github.com/Mandeep-Parmar/WanderLust-Airbnb-Project
 
 ---
 
+### 📝 Todo App (React)
+
+A **modern and responsive Todo application** with a clean UI and real-world features like persistent storage and smooth interactions.
+
+**Tech Stack:** React, JavaScript, CSS, Vite
+
+🔗 Live Demo:
+https://todo-app-henna-phi-35.vercel.app/
+
+📂 GitHub Repository:
+(Add your repo link here)
+
+---
+
 ### 🎮 Simon Says Game
 
-An interactive **memory game** built using JavaScript with DOM manipulation and game logic.
+An interactive **memory-based game** built using JavaScript with DOM manipulation and game logic.
 
 🔗 Live:
 https://mandeep-parmar.github.io/simon-says-game/
@@ -63,7 +79,7 @@ https://github.com/mandeep-parmar/simon-says-game
 
 ### 🎧 Spotify Web Player UI Clone
 
-A **modern responsive UI clone** built using pure HTML and CSS focusing on layout design and responsiveness.
+A **responsive UI clone** built using HTML and CSS focusing on layout and design accuracy.
 
 🔗 Live:
 https://mandeep-parmar.github.io/spotify-ui-clone/
@@ -73,18 +89,18 @@ https://mandeep-parmar.github.io/spotify-ui-clone/
 ## 🧠 Currently Learning
 
 * Full-Stack Development with **MERN**
-* Backend Architecture & **MVC pattern**
+* Backend Architecture & **MVC Pattern**
 * **Authentication & Authorization**
 * Writing **clean and scalable code**
-* Building **production-ready projects**
+* Building **production-ready applications**
 
 ---
 
 ## 🎯 Goals
 
 * Become a **Full-Stack MERN Developer**
-* Build real-world scalable applications
-* Secure a **software development internship**
+* Build scalable real-world applications
+* Secure a **Software Development Internship**
 * Contribute to **open-source projects**
 
 ---
@@ -93,3 +109,5 @@ https://mandeep-parmar.github.io/spotify-ui-clone/
 
 * GitHub: https://github.com/mandeep-parmar
 * LinkedIn: https://www.linkedin.com/in/mandeep-p-b44930327/
+
+---
