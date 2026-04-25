@@ -1,10 +1,13 @@
 ## 👋 Hi, I'm Mandeep Parmar
 
-Aspiring **MERN Stack Developer** focused on building clean, responsive, and real-world web applications using **React, Node.js, Express.js, and MongoDB**.
+Aspiring **Full-Stack MERN Developer** passionate about building **real-world, production-ready web applications** using modern technologies.
 
-Focused on writing clean code, designing backend systems, and turning ideas into production-ready apps.
+I focus on:
+- Writing clean & scalable code  
+- Designing backend systems (MVC architecture)  
+- Building complete end-to-end applications  
 
-Currently building full-stack projects and preparing for software development internships.
+Currently preparing for **Software Development Internships** and actively building full-stack projects.
 
 ---
 
@@ -26,11 +29,23 @@ Currently building full-stack projects and preparing for software development in
 
 ## ⭐ Featured Projects
 
-### 🛒 E-commerce Web App (Ongoing)
+## 🛒 Forever — Full Stack E-commerce App 🚀
 
-🚧 A full-stack e-commerce application currently under development, focused on building a scalable and production-ready system.
+A **production-ready MERN E-commerce platform** with real-world features like authentication, payments, and admin management.
 
-**Tech Stack:** React, Node.js, Express, MongoDB  
+### 🔥 Features:
+- 🛒 Cart system with DB sync  
+- 🔐 JWT Authentication (User & Admin)  
+- 💳 Razorpay Payment Integration  
+- 📦 Order Management System  
+- ☁️ Cloudinary Image Upload  
+- 🧑‍💼 Admin Dashboard  
+
+### 🌐 Live Links:
+- Frontend: https://forever-by-mandeep.vercel.app/  
+- Admin: https://forever-admin-by-mandeep.vercel.app/  
+
+📂 Repo: https://github.com/Mandeep-Parmar/ecommerce-app
 
 ---
 
@@ -104,3 +119,5 @@ https://github.com/Mandeep-Parmar/spotify-ui-clone
 * Contribute to **open-source projects**
 
 ---
+
+⭐ If you like my work, feel free to connect or collaborate!
