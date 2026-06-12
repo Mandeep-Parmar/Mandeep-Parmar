@@ -1,123 +1,183 @@
-## 👋 Hi, I'm Mandeep Parmar
-
-Aspiring **Full-Stack MERN Developer** passionate about building **real-world, production-ready web applications** using modern technologies.
-
-I focus on:
-- Writing clean & scalable code  
-- Designing backend systems (MVC architecture)  
-- Building complete end-to-end applications  
-
-Currently preparing for **Software Development Internships** and actively building full-stack projects.
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mandeep-p-b44930327) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mandeeppar07@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-
-![](https://streak-stats.demolab.com/?user=Mandeep-Parmar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mandeep-Parmar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mandeep%20Parmar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20MERN%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 <p align="center">
-  <img src="https://github.com/Mandeep-Parmar/Mandeep-Parmar/blob/output/github-contribution-grid-snake-dark.svg" />
+  <a href="https://linkedin.com/in/mandeep-p-b44930327">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mandeeppar07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mandeep-Parmar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+</div>
+ 
+## 👨‍💻 About Me
+ 
+```javascript
+const mandeep = {
+  role:       "Aspiring Full-Stack MERN Developer",
+  location:   "India 🇮🇳",
+  focus:      ["Clean Code", "Scalable Architecture", "Real-World Apps"],
+  currently:  "Building production-ready projects & seeking internships",
+  goal:       "Ship products that make a difference 🚀",
+  openTo:     ["Software Dev Internships", "Open Source Collaboration"],
+};
+```
+ 
+- 🔥 Passionate about building **end-to-end production-ready applications**
+- 🏗️ Strong grasp of **MVC architecture** & backend design patterns
+- 🌱 Currently deepening skills in **React**, **Node.js**, and **system design**
+- 🤝 Open to **internship opportunities** and **open-source contributions**
+---
+ 
+## 🛠️ Tech Stack
+ 
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ 
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+ 
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+ 
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+ 
+---
+ 
+## 🚀 Featured Projects
+ 
+---
+ 
+### 📈 Zerodha Trading Platform — Full-Stack Clone
+> *Production-grade stock trading app with cross-platform JWT auth, real-time portfolio management, and interactive analytics — built on MERN*
+ 
+[![Trading Portal](https://img.shields.io/badge/🌐_Trading_Portal-00D4AA?style=for-the-badge)](https://zerodha-portal-app.vercel.app/)
+[![Dashboard](https://img.shields.io/badge/📊_Dashboard_App-646CFF?style=for-the-badge)](https://zerodha-trade-dashboard.vercel.app/)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Mandeep-Parmar/zerodha)
+ 
+`React + Vite` `Node.js` `Express` `MongoDB Atlas` `JWT` `Chart.js` `Axios` `Joi` `Vercel` `Render`
+ 
+| Feature | Details |
+|---|---|
+| 🔐 Cross-Platform Auth | JWT shared across two separate Vercel deployments |
+| 📈 Live Trading Engine | Buy/sell stocks with position averaging & P&L engine |
+| 💼 Portfolio Management | Holdings, positions, and net value computed per session |
+| 📊 Interactive Charts | Chart.js visualizations for allocation & performance |
+| 💰 Funds Wallet | Add/withdraw balance with real-time sync |
+| 🧱 Clean MVC Backend | Routes → Controllers → Models, Joi validation at boundaries |
 
 ---
-
-## ⭐ Featured Projects
-
-## 🛒 Forever — Full Stack E-commerce App 🚀
-
-A **production-ready MERN E-commerce platform** with real-world features like authentication, payments, and admin management.
-
-### 🔥 Features:
-- 🛒 Cart system with DB sync  
-- 🔐 JWT Authentication (User & Admin)  
-- 💳 Razorpay Payment Integration  
-- 📦 Order Management System  
-- ☁️ Cloudinary Image Upload  
-- 🧑‍💼 Admin Dashboard  
-
-### 🌐 Live Links:
-- Frontend: https://forever-by-mandeep.vercel.app/  
-- Admin: https://forever-admin-by-mandeep.vercel.app/  
-
-📂 Repo: https://github.com/Mandeep-Parmar/ecommerce-app
-
+ 
+### 🛒 Forever — Full-Stack E-Commerce Platform
+> *Production-ready MERN app with real payments, auth, and admin panel*
+ 
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-4CAF50?style=for-the-badge)](https://forever-by-mandeep.vercel.app/)
+[![Admin Panel](https://img.shields.io/badge/🛠_Admin_Panel-FF9800?style=for-the-badge)](https://forever-admin-by-mandeep.vercel.app/)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Mandeep-Parmar/ecommerce-app)
+ 
+`React` `Node.js` `Express` `MongoDB` `JWT` `Razorpay` `Cloudinary` `Vercel`
+ 
+| Feature | Details |
+|---|---|
+| 🔐 Authentication | JWT-based User & Admin auth |
+| 🛒 Cart System | Persistent cart with DB sync |
+| 💳 Payments | Razorpay integration |
+| 📦 Orders | Full order management system |
+| ☁️ Media | Cloudinary image uploads |
+| 🧑‍💼 Admin | Complete admin dashboard |
+ 
 ---
-
-### 🏡 WanderLust — Airbnb Style Listing Platform 🚀
-
-A **full-stack Airbnb-inspired web application** where users can create travel listings, upload images, leave reviews, and explore locations on an interactive map.
-
-**Tech Stack:** Node.js, Express, MongoDB, EJS, Cloudinary, Leaflet
-
-🔗 Live Demo:
-https://wanderlust-fyj1.onrender.com/listings
-
-📂 GitHub Repository:
-https://github.com/Mandeep-Parmar/WanderLust-Airbnb-Project
-
+ 
+### 🏡 WanderLust — Airbnb-Style Listing Platform
+> *Full-stack travel listings app with maps, reviews & image uploads*
+ 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://wanderlust-fyj1.onrender.com/listings)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Mandeep-Parmar/WanderLust-Airbnb-Project)
+ 
+`Node.js` `Express` `MongoDB` `EJS` `Cloudinary` `Leaflet Maps`
+ 
+- 📍 Interactive map with Leaflet for location discovery
+- 🖼️ Cloudinary-powered image upload system
+- ⭐ User reviews & rating system
+- 🔐 Passport.js authentication
 ---
-
-### 📝 Todo App (React)
-
-A **modern and responsive Todo application** with a clean UI and real-world features like persistent storage and smooth interactions.
-
-**Tech Stack:** React, JavaScript, CSS, Vite
-
-🔗 Live Demo:
-https://todo-app-henna-phi-35.vercel.app/
-
-📂 GitHub Repository:
-https://github.com/Mandeep-Parmar/todo-app
-
+ 
+### 📝 Todo App — React
+> *Clean, modern task manager with persistent storage*
+ 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://todo-app-henna-phi-35.vercel.app/)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Mandeep-Parmar/todo-app)
+ 
+`React` `JavaScript` `Vite` `CSS`
+ 
 ---
-
-### 🎮 Simon Says Game
-
-An interactive **memory-based game** built using JavaScript with DOM manipulation and game logic.
-
-🔗 Live:
-https://mandeep-parmar.github.io/simon-says-game/
-
-📂 Repository:
-https://github.com/mandeep-parmar/simon-says-game
-
+ 
+### 🎮 Simon Says — Memory Game
+> *Classic browser game with DOM manipulation & game logic*
+ 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://mandeep-parmar.github.io/simon-says-game/)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/mandeep-parmar/simon-says-game)
+ 
+`Vanilla JavaScript` `DOM Manipulation` `CSS Animations`
+ 
 ---
-
-### 🎧 Spotify Web Player UI Clone
-
-A **responsive UI clone** built using HTML and CSS focusing on layout and design accuracy.
-
-🔗 Live:
-https://mandeep-parmar.github.io/spotify-ui-clone/
-
-📂 Repository:
-https://github.com/Mandeep-Parmar/spotify-ui-clone
-
+ 
+### 🎧 Spotify UI Clone
+> *Pixel-perfect responsive Spotify UI recreation*
+ 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://mandeep-parmar.github.io/spotify-ui-clone/)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Mandeep-Parmar/spotify-ui-clone)
+ 
+`HTML5` `CSS3` `Responsive Design` `Flexbox & Grid`
+ 
 ---
-
-## 🧠 Currently Learning
-
-* Full-Stack Development with **MERN**
-* Backend Architecture & **MVC Pattern**
-* **Authentication & Authorization**
-* Writing **clean and scalable code**
-* Building **production-ready applications**
-
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Mandeep-Parmar&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mandeep-Parmar&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=false&count_private=false&layout=compact" height="165"/>
+</div>
+<div align="center">
+  <img src="https://github.com/Mandeep-Parmar/Mandeep-Parmar/blob/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</div>
+ 
 ---
+ 
+<div align="center">
+### 💬 Let's Connect & Build Something Great!
+ 
+*Open to internships, collaborations, and interesting projects.*
+ 
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mandeep-p-b44930327)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandeeppar07@gmail.com)
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+ 
 
-## 🎯 Goals
 
-* Become a **Full-Stack MERN Developer**
-* Build scalable real-world applications
-* Secure a **Software Development Internship**
-* Contribute to **open-source projects**
 
----
 
-⭐ If you like my work, feel free to connect or collaborate!
