@@ -57,6 +57,10 @@ const mandeep = {
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
  
+### Real-Time
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+ 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -67,6 +71,21 @@ const mandeep = {
 ---
  
 ## 🚀 Featured Projects
+
+### 🎥 Meetly — Real-Time Video Conferencing App
+> *Full-stack video conferencing platform built from scratch — no SDKs. WebRTC peer-to-peer video, Socket.IO signaling, screen sharing, live chat, and meeting history.*
+ 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge)](https://meetly-live.vercel.app)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Mandeep-Parmar/Meetly)
+ 
+| Feature | Details |
+|---|---|
+| 🎥 Peer-to-Peer Video | WebRTC with full offer/answer/ICE negotiation — no SDK |
+| 🖥️ Screen Sharing | Mid-call screen share with track hot-swap |
+| 💬 Live Chat | Real-time in-call messaging via Socket.IO |
+| 🔐 Auth + Guest Mode | JWT sessions for registered users, instant guest join |
+| 🏠 Lobby Preview | Camera & mic check before entering a room |
+| 📋 Meeting History | Persistent log with rejoin & copy link per user |
  
 ---
  
