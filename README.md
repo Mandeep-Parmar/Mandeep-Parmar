@@ -88,6 +88,25 @@ const mandeep = {
 | 📋 Meeting History | Persistent log with rejoin & copy link per user |
  
 ---
+
+### 🤖 ChatBuddy — Full-Stack AI Platform
+> *AI chat + AI image generation + community gallery + Stripe credit billing — all in one production-grade MERN app powered by Gemini & ImageKit*
+ 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-635BFF?style=for-the-badge)](https://chatbuddy-live.vercel.app)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Mandeep-Parmar/chatbuddy)
+ 
+`React + Vite` `Node.js` `Express` `MongoDB` `JWT` `Gemini API` `ImageKit AI` `Stripe` `Tailwind CSS` `Joi` `Vercel` `Render`
+ 
+| Feature | Details |
+|---|---|
+| 🤖 AI Text Chat | Multi-turn conversations via Gemini API, Markdown + syntax highlighting |
+| 🎨 AI Image Gen | Prompt-to-image via ImageKit AI, publish to community gallery |
+| 💳 Stripe Payments | Checkout session → webhook-confirmed credit fulfillment |
+| 🪙 Credit System | Per-request billing, real-time balance, full transaction history |
+| 🌍 Community Gallery | Publicly shared AI images from all users |
+| 🌗 Dark Mode | Persisted theme preference across sessions |
+
+---
  
 ### 📈 Zerodha Trading Platform — Full-Stack Clone
 > *Production-grade stock trading app with cross-platform JWT auth, real-time portfolio management, and interactive analytics — built on MERN*
@@ -141,36 +160,6 @@ const mandeep = {
 - 🖼️ Cloudinary-powered image upload system
 - ⭐ User reviews & rating system
 - 🔐 Passport.js authentication
----
- 
-### 📝 Todo App — React
-> *Clean, modern task manager with persistent storage*
- 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://todo-app-henna-phi-35.vercel.app/)
-[![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Mandeep-Parmar/todo-app)
- 
-`React` `JavaScript` `Vite` `CSS`
- 
----
- 
-### 🎮 Simon Says — Memory Game
-> *Classic browser game with DOM manipulation & game logic*
- 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://mandeep-parmar.github.io/simon-says-game/)
-[![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/mandeep-parmar/simon-says-game)
- 
-`Vanilla JavaScript` `DOM Manipulation` `CSS Animations`
- 
----
- 
-### 🎧 Spotify UI Clone
-> *Pixel-perfect responsive Spotify UI recreation*
- 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://mandeep-parmar.github.io/spotify-ui-clone/)
-[![GitHub](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Mandeep-Parmar/spotify-ui-clone)
- 
-`HTML5` `CSS3` `Responsive Design` `Flexbox & Grid`
- 
 ---
  
 ## 📊 GitHub Stats
