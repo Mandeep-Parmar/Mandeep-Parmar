@@ -117,15 +117,24 @@ const mandeep = {
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandeep-Parmar&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</div>
+<p align="center">
+  <i>A quick look at the languages I use and my coding consistency.</i>
+</p>
 
-<div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=Mandeep-Parmar&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub contribution streak" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandeep-Parmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79A8FF&text_color=C9D1D9&langs_count=6" width="100%" alt="Most used programming languages" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🔥 Contribution Streak</h3>
+      <img src="https://streak-stats.demolab.com?user=Mandeep-Parmar&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" width="100%" alt="GitHub contribution streak" />
+    </td>
+  </tr>
+</table>
 
 ### 🐍 Contribution Snake
 
