@@ -12,7 +12,6 @@
   <a href="mailto:mandeeppar07@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s%20Talk-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Mandeep-Parmar&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -121,7 +120,6 @@ const mandeep = {
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mandeep-Parmar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandeep-Parmar&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </div>
 
