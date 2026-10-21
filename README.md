@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:06B6D4&height=220&section=header&text=Mandeep%20Parmar&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI-Powered%20Apps&descSize=16&descAlignY=57&descColor=E2E8F0" width="100%" alt="Animated header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312E81,70:0E7490,100:06B6D4&height=240&section=header&text=Mandeep%20Parmar&fontSize=52&fontColor=FFFFFF&fontAlignY=34&animation=twinkling&desc=FULL-STACK%20DEVELOPER%20%7C%20MERN%20%7C%20AI%20APPS&descSize=16&descAlignY=56&descColor=CFFAFE" width="100%" alt="Animated gradient header banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+useful+things+for+the+web;MERN+Stack+%7C+Backend+Engineering;Exploring+AI+and+real-time+applications;Turning+ideas+into+working+products" alt="Typing animation" />
@@ -65,6 +65,8 @@ const mandeep = {
 
 ## 🚀 Featured Projects
 
+<p align="center"><i>Building full-stack products with real-world features, thoughtful architecture, and modern web technologies.</i></p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -111,13 +113,6 @@ const mandeep = {
       <a href="https://github.com/Mandeep-Parmar/WanderLust-Airbnb-Project"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="WanderLust repository" /></a>
       <a href="https://wanderlust-fyj1.onrender.com/listings"><img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge" alt="WanderLust live demo" /></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🎵 Spotify UI Clone</h3>
-      <p><b>Music streaming interface</b></p>
-      <p>A frontend project inspired by Spotify, focused on layout, styling, and responsive interface design.</p>
-      <p><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /></p>
-      <a href="https://github.com/Mandeep-Parmar/spotify-ui-clone"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="Spotify UI clone repository" /></a>
-    </td>
   </tr>
 </table>
 
@@ -131,7 +126,7 @@ const mandeep = {
 </div>
 
 <div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=Mandeep-Parmar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=Mandeep-Parmar&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub contribution streak" />
 </div>
 
 ### 🐍 Contribution Snake
@@ -159,7 +154,7 @@ I'm always happy to connect with developers, collaborate on interesting ideas, a
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:06B6D4&height=120&section=footer" width="100%" alt="Animated footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312E81,70:0E7490,100:06B6D4&height=140&section=footer&animation=twinkling" width="100%" alt="Animated gradient footer banner" />
 
 **"Keep building. Keep learning. Keep shipping."** 🚀
 
